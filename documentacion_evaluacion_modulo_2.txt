@@ -1,0 +1,11 @@
+DOCUMENTACIÓN EVALUACION MODULO 2
+Versión de Python utilizada: Python 3.13.4
+Entorno de desarrollo elegido: Visual Studio Code (VS Code)
+
+Descripción breve de lo que hace el programa:
+
+Sistema de que gestiona libros, usuarios y préstamos para la “Biblioteca Digital para Ingenieros de Datos”.
+Permite registrar libros y usuarios (estudiante / instructor), consultar el catálogo por autor, género o disponibilidad,
+realizar préstamos con validaciones y listar los préstamos activos.
+Aplica funciones, estructuras de datos (listas y diccionarios), POO con herencia y polimorfismo,
+además de excepciones para errores típicos (usuario no registrado, libro no disponible, préstamo duplicado).
